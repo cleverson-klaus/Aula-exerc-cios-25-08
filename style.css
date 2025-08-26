@@ -84,19 +84,19 @@ main {
 .sticky {
   position: sticky;
   top: 20px;
-  background: #ff9800;
+  background: #815c24;
   color: #fff;
   padding: 12px;
   border-radius: 6px;
   font-weight: bold;
   margin: 20px 0;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+  box-shadow: 0 2px 6px rgba(10, 10, 10, 0.15);
 }
 
 /* BLOCOS */
 .bloco {
   min-height: 350px;
-  background: #fff;
+  background: #ececec;
   margin: 20px 0;
   border-radius: 6px;
   display: flex;
